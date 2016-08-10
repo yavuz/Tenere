@@ -1,0 +1,25 @@
+/* 
+  Localizable.strings
+  Yuka
+
+  Created by yavuz on 28/03/15.
+  Copyright (c) 2015 yuka. All rights reserved.
+*/
+"contenttitle" = "Content Application";
+"last_news" = "Last News";
+"close" = "Close";
+"settings" = "Settings";
+"add" = "Add";
+"done" = "Done";
+"select_news_limit" = "Please select at least one source!";
+"select_news" = "Select News";
+"select_country" = "Select Country";
+"select_close" = "Close";
+"settings_autorefresh" = "Auto Refresh";
+"settings_footer" = "copyright yuka";
+"settings_sounds" = "Sounds";
+"settings_languages" = "Language";
+"center_pull_to_refresh" = "Pull to refresh";
+"center_last_update" = "Last Update";
+"left_menu_search_box" = "Search or paste url";
+"no_feed" = "No Feed";

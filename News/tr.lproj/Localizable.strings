@@ -1,0 +1,25 @@
+/* 
+  Localizable.strings
+  Yuka
+
+  Created by yavuz on 28/03/15.
+  Copyright (c) 2015 yuka. All rights reserved.
+*/
+"contenttitle" = "Content Application";
+"last_news" = "En Son Haber";
+"close" = "Kapat";
+"settings" = "Ayarlar";
+"add" = "Ekle";
+"done" = "Tamam";
+"select_news_limit" = "Lütfen bir haber kaynağı seçiniz!";
+"select_news" = "Haber Seç";
+"select_country" = "Ülke Seç";
+"select_close" = "Kapat";
+"settings_autorefresh" = "Otomatik Yenileme";
+"settings_footer" = "copyright yuka";
+"settings_sounds" = "Sesler";
+"settings_languages" = "Dil";
+"center_pull_to_refresh" = "Yenile";
+"center_last_update" = "Son Güncelleme";
+"left_menu_search_box" = "Ara veya adresi yapıştır";
+"no_feed" = "Feed Bulunamadı";

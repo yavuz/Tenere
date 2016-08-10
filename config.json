@@ -1,0 +1,349 @@
+{
+    "mode": "newsapp",
+    "appname": "Lorem Ipsum",
+    "ipad": 1,
+    "opendirectlink": false,
+    "rtlview": false,
+    "iswebsources": false,
+    "admobfullsourcelinkopen": false,
+    "admobfullunitid": "",
+    "admobfulldelay": "3",
+    "admobbannersourcelinkopen": false,
+    "admobbannerunitid": "",
+    "admobbannerdelay": "1",
+    "color": {
+        "maincolor": "#fbfbfb",
+        "mainfontcolor": "#260808",
+        "mainselectednews": "#cccccc",
+        "mainnavigationtitle": "#f8f7f7",
+        "mainnavigationtitlefontcolor": "#333333",
+        "mainnavigationtitletint": "#333333",
+        "mainnavigationfooter": "#cccccc",
+        "leftmenubackground": "#f4f4f4",
+        "leftmenufontcolor": "#333333",
+        "leftmenu": "#f4f4f4",
+        "leftmenuselected": "#d9d9d9",
+        "selectednewspage": "#fbfbfb",
+        "selectednewspageitem": "#ffffff",
+        "selectednewspageclickitem": "#a7e8ff",
+        "selectednewspagefontcolor": "#333333",
+        "selectednewspagetitle": "#f8f7f7",
+        "selectednewspagenavfontcolor": "#333333",
+        "webviewfootertint": "#c1c2c1",
+        "webviewfooter": "#575757"
+    },
+    "menu": [
+             {
+             "id": 1,
+             "title": "CNN",
+             "favicon": "http:\/\/www.google.com\/s2\/favicons?domain=http:\/\/cnn.com\/",
+             "rsslink": "http:\/\/rss.cnn.com\/rss\/cnn_topstories.rss"
+             },
+             {
+             "id": 2,
+             "title": "Huffington Post",
+             "favicon": "http:\/\/www.google.com\/s2\/favicons?domain=http:\/\/huffingtonpost.com\/",
+             "rsslink": "http:\/\/www.huffingtonpost.com\/feeds\/index.xml"
+             },
+             {
+             "id": 3,
+             "title": "ESPN",
+             "favicon": "http:\/\/www.google.com\/s2\/favicons?domain=http:\/\/espn.go.com\/",
+             "rsslink": "http:\/\/sports.espn.go.com\/espn\/rss\/news"
+             },
+             {
+             "id": 4,
+             "title": "FOX Sports",
+             "favicon": "http:\/\/www.google.com\/s2\/favicons?domain=http:\/\/msn.foxsports.com\/",
+             "rsslink": "http:\/\/feeds.foxsports.com\/feedout\/syndicatedContent?categoryId=0"
+             },
+             {
+             "id": 5,
+             "title": "Fox News",
+             "favicon": "http:\/\/www.google.com\/s2\/favicons?domain=http:\/\/foxnews.com\/",
+             "rsslink": "http:\/\/feeds.foxnews.com\/foxnews\/politics"
+             },
+             {
+             "id": 6,
+             "title": "The New York Times",
+             "favicon": "http:\/\/www.google.com\/s2\/favicons?domain=http:\/\/nytimes.com\/",
+             "rsslink": "http:\/\/rss.nytimes.com\/services\/xml\/rss\/nyt\/HomePage.xml"
+             },
+             {
+             "id": 7,
+             "title": "ABCNews.com",
+             "favicon": "http:\/\/www.google.com\/s2\/favicons?domain=http:\/\/abcnews.go.com\/",
+             "rsslink": "http:\/\/abcnews.go.com\/xmldata\/rss?id=4380645"
+             },
+             {
+             "id": 8,
+             "title": "USA TODAY",
+             "favicon": "http:\/\/www.google.com\/s2\/favicons?domain=http:\/\/usatoday.com\/",
+             "rsslink": "http:\/\/rssfeeds.usatoday.com\/usatoday-NewsTopStories"
+             },
+             {
+             "id": 9,
+             "title": "People",
+             "favicon": "http:\/\/www.google.com\/s2\/favicons?domain=http:\/\/people.com\/",
+             "rsslink": "http:\/\/feeds.people.com\/people\/headlines"
+             },
+             {
+             "id": 10,
+             "title": "Washington Post",
+             "favicon": "http:\/\/www.google.com\/s2\/favicons?domain=http:\/\/washingtonpost.com\/",
+             "rsslink": "http:\/\/feeds.washingtonpost.com\/rss\/homepage"
+             },
+             {
+             "id": 11,
+             "title": "TMZ.com",
+             "favicon": "http:\/\/www.google.com\/s2\/favicons?domain=http:\/\/tmz.com\/",
+             "rsslink": "http:\/\/www.tmz.com\/rss.xml"
+             },
+             {
+             "id": 12,
+             "title": "Los Angeles Times",
+             "favicon": "http:\/\/www.google.com\/s2\/favicons?domain=http:\/\/latimes.com\/",
+             "rsslink": "http:\/\/www.latimes.com\/rss2.0.xml"
+             },
+             {
+             "id": 13,
+             "title": "Yardbarker.com",
+             "favicon": "http:\/\/www.google.com\/s2\/favicons?domain=http:\/\/yardbarker.com\/",
+             "rsslink": "http:\/\/www.yardbarker.com\/rss\/rumors"
+             },
+             {
+             "id": 14,
+             "title": "The Wall Street Journal",
+             "favicon": "http:\/\/www.google.com\/s2\/favicons?domain=http:\/\/wsj.com\/",
+             "rsslink": "http:\/\/online.wsj.com\/xml\/rss\/3_7085.xml"
+             },
+             {
+             "id": 15,
+             "title": "Forbes",
+             "favicon": "http:\/\/www.google.com\/s2\/favicons?domain=http:\/\/forbes.com\/",
+             "rsslink": "http:\/\/www.forbes.com\/business\/feed2\/"
+             },
+             {
+             "id": 16,
+             "title": "Bleacher Report",
+             "favicon": "http:\/\/www.google.com\/s2\/favicons?domain=http:\/\/bleacherreport.com\/",
+             "rsslink": "http:\/\/bleacherreport.com\/articles\/feed"
+             },
+             {
+             "id": 17,
+             "title": "ThePostGame",
+             "favicon": "http:\/\/www.google.com\/s2\/favicons?domain=http:\/\/thepostgame.com\/",
+             "rsslink": "http:\/\/www.thepostgame.com\/rss.xml"
+             },
+             {
+             "id": 18,
+             "title": "CBS News",
+             "favicon": "http:\/\/www.google.com\/s2\/favicons?domain=http:\/\/cbsnews.com\/",
+             "rsslink": "http:\/\/feeds.cbsnews.com\/CBSNewsMain"
+             },
+             {
+             "id": 19,
+             "title": "Reuters.com",
+             "favicon": "http:\/\/www.google.com\/s2\/favicons?domain=http:\/\/reuters.com\/",
+             "rsslink": "http:\/\/feeds.reuters.com\/reuters\/TopNews\/"
+             },
+             {
+             "id": 20,
+             "title": "Newsmax.com",
+             "favicon": "http:\/\/www.google.com\/s2\/favicons?domain=http:\/\/newsmax.com\/",
+             "rsslink": "http:\/\/www.newsmax.com\/rss\/Politics\/1.xml\/"
+             },
+             {
+             "id": 21,
+             "title": "SI.com",
+             "favicon": "http:\/\/www.google.com\/s2\/favicons?domain=http:\/\/sportsillustrated.cnn.com\/",
+             "rsslink": "http:\/\/rss.cnn.com\/rss\/si_topstories.rss"
+             },
+             {
+             "id": 22,
+             "title": "NY Daily News",
+             "favicon": "http:\/\/www.google.com\/s2\/favicons?domain=http:\/\/nydailynews.com\/",
+             "rsslink": "http:\/\/feeds.nydailynews.com\/nydnrss\/news"
+             },
+             {
+             "id": 23,
+             "title": "Sporting News",
+             "favicon": "http:\/\/www.google.com\/s2\/favicons?domain=http:\/\/sportingnews.com\/",
+             "rsslink": "http:\/\/www.sportinglife.com\/rss\/racing.xml"
+             },
+             {
+             "id": 24,
+             "title": "Bloomberg",
+             "favicon": "http:\/\/www.google.com\/s2\/favicons?domain=http:\/\/bloomberg.com\/",
+             "rsslink": "http:\/\/www.bloomberg.com\/feed\/podcast\/bloomberg-brief.xml"
+             },
+             {
+             "id": 25,
+             "title": "CNBC",
+             "favicon": "http:\/\/www.google.com\/s2\/favicons?domain=http:\/\/cnbc.com\/",
+             "rsslink": "http:\/\/www.cnbc.com\/id\/100003114\/device\/rss\/rss.html"
+             },
+             {
+             "id": 26,
+             "title": "Examiner.com",
+             "favicon": "http:\/\/www.google.com\/s2\/favicons?domain=http:\/\/examiner.com\/",
+             "rsslink": "http:\/\/www.examiner.com\/rss\/all\/top-news"
+             },
+             {
+             "id": 27,
+             "title": "UsMagazine.com",
+             "favicon": "http:\/\/www.google.com\/s2\/favicons?domain=http:\/\/usmagazine.com\/",
+             "rsslink": "http:\/\/www.usmagazine.com\/celebrity_news\/rss"
+             },
+             {
+             "id": 28,
+             "title": "CBSSports.com",
+             "favicon": "http:\/\/www.google.com\/s2\/favicons?domain=http:\/\/cbssports.com\/",
+             "rsslink": "http:\/\/www.cbssports.com\/partners\/feeds\/rss\/home_news"
+             },
+             {
+             "id": 29,
+             "title": "Slate Magazine",
+             "favicon": "http:\/\/www.google.com\/s2\/favicons?domain=http:\/\/slate.com\/",
+             "rsslink": "http:\/\/feeds.slate.com\/slate"
+             },
+             {
+             "id": 30,
+             "title": "Scout.com",
+             "favicon": "http:\/\/www.google.com\/s2\/favicons?domain=http:\/\/scout.com\/",
+             "rsslink": "http:\/\/rss.scout.com\/rss.aspx?&p=18&contenttypeid=20&contentid=127202"
+             },
+             {
+             "id": 31,
+             "title": "New York Post",
+             "favicon": "http:\/\/www.google.com\/s2\/favicons?domain=http:\/\/nypost.com\/",
+             "rsslink": "http:\/\/nypost.com\/news\/feed\/"
+             },
+             {
+             "id": 32,
+             "title": "MarketWatch",
+             "favicon": "http:\/\/www.google.com\/s2\/favicons?domain=http:\/\/marketwatch.com\/",
+             "rsslink": "http:\/\/feeds.marketwatch.com\/marketwatch\/marketpulse\/"
+             },
+             {
+             "id": 33,
+             "title": "Chicago Tribune",
+             "favicon": "http:\/\/www.google.com\/s2\/favicons?domain=http:\/\/chicagotribune.com\/",
+             "rsslink": "http:\/\/www.chicagotribune.com\/rss2.0.xml"
+             },
+             {
+             "id": 34,
+             "title": "NPR : National Public Radio",
+             "favicon": "http:\/\/www.google.com\/s2\/favicons?domain=http:\/\/npr.org\/",
+             "rsslink": "http:\/\/www.npr.org\/rss\/rss.php?id=1004"
+             },
+             {
+             "id": 35,
+             "title": "SFGate",
+             "favicon": "http:\/\/www.google.com\/s2\/favicons?domain=http:\/\/sfgate.com\/",
+             "rsslink": "http:\/\/www.sfgate.com\/bayarea\/feed\/bay-area-news-429.php"
+             },
+             {
+             "id": 36,
+             "title": "TIME.com",
+             "favicon": "http:\/\/www.google.com\/s2\/favicons?domain=http:\/\/time.com\/",
+             "rsslink": "http:\/\/time.com\/feed\/"
+             },
+             {
+             "id": 37,
+             "title": "Boston.com",
+             "favicon": "http:\/\/www.google.com\/s2\/favicons?domain=http:\/\/boston.com\/",
+             "rsslink": "http:\/\/feeds.boston.com\/boston\/topstories"
+             },
+             {
+             "id": 38,
+             "title": "Businessweek",
+             "favicon": "http:\/\/www.google.com\/s2\/favicons?domain=http:\/\/businessweek.com\/",
+             "rsslink": "http:\/\/www.businessweek.com\/feeds\/homepage.rss"
+             },
+             {
+             "id": 39,
+             "title": "POLITICO.com",
+             "favicon": "http:\/\/www.google.com\/s2\/favicons?domain=http:\/\/politico.com\/",
+             "rsslink": "http:\/\/www.politico.com\/rss\/politicopicks.xml"
+             },
+             {
+             "id": 40,
+             "title": "Rivals.com",
+             "favicon": "http:\/\/www.google.com\/s2\/favicons?domain=http:\/\/rivals.com\/",
+             "rsslink": "https:\/\/rivals100.rivals.com\/rss2feed.asp?sid=880"
+             },
+             {
+             "id": 41,
+             "title": "Seeking Alpha",
+             "favicon": "http:\/\/www.google.com\/s2\/favicons?domain=http:\/\/seekingalpha.com\/",
+             "rsslink": "http:\/\/seekingalpha.com\/feed.xml"
+             },
+             {
+             "id": 42,
+             "title": "The Christian Science Monitor",
+             "favicon": "http:\/\/www.google.com\/s2\/favicons?domain=http:\/\/csmonitor.com\/",
+             "rsslink": "http:\/\/rss.csmonitor.com\/feeds\/csm"
+             },
+             {
+             "id": 43,
+             "title": "Gawker",
+             "favicon": "http:\/\/www.google.com\/s2\/favicons?domain=http:\/\/gawker.com\/",
+             "rsslink": "http:\/\/gawker.com\/rss"
+             },
+             {
+             "id": 44,
+             "title": "TechCrunch",
+             "favicon": "http:\/\/www.google.com\/s2\/favicons?domain=http:\/\/techcrunch.com\/",
+             "rsslink": "http:\/\/techcrunch.com\/feed\/"
+             },
+             {
+             "id": 45,
+             "title": "RantSports",
+             "favicon": "http:\/\/www.google.com\/s2\/favicons?domain=http:\/\/rantsports.com\/",
+             "rsslink": "http:\/\/www.rantsports.com\/feed\/"
+             },
+             {
+             "id": 46,
+             "title": "Breitbart",
+             "favicon": "http:\/\/www.google.com\/s2\/favicons?domain=http:\/\/breitbart.com\/",
+             "rsslink": "http:\/\/feeds.feedburner.com\/breitbart"
+             },
+             {
+             "id": 47,
+             "title": "KSL.com",
+             "favicon": "http:\/\/www.google.com\/s2\/favicons?domain=http:\/\/ksl.com\/",
+             "rsslink": "http:\/\/www.ksl.com\/xml\/148.rss?title=ksl-local-news"
+             },
+             {
+             "id": 48,
+             "title": "Wired",
+             "favicon": "http:\/\/www.google.com\/s2\/favicons?domain=http:\/\/wired.com\/",
+             "rsslink": "http:\/\/feeds.wired.com\/wired\/index"
+             },
+             {
+             "id": 49,
+             "title": "PerezHilton.com",
+             "favicon": "http:\/\/www.google.com\/s2\/favicons?domain=http:\/\/perezhilton.com\/",
+             "rsslink": "http:\/\/img.perezhilton.com\/?feed=rss2"
+             },
+             {
+             "id": 50,
+             "title": "US News and World Report",
+             "favicon": "http:\/\/www.google.com\/s2\/favicons?domain=http:\/\/usnews.com\/",
+             "rsslink": "http:\/\/www.usnews.com\/blogrss\/world-report.xml"
+             },
+             {
+             "id": 51,
+             "title": "H\u00fcrriyet",
+             "favicon": "http:\/\/www.google.com\/s2\/favicons?domain=http:\/\/hurriyet.com.tr\/",
+             "rsslink": "http:\/\/rss.hurriyet.com.tr\/rss.aspx?sectionID=1"
+             },
+             {
+             "id": 52,
+             "title": "Sporx",
+             "favicon": "http:\/\/www.google.com\/s2\/favicons?domain=http:\/\/sporx.com\/",
+             "rsslink": "http:\/\/www.sporx.com\/_xml\/rss.php"
+             }
+             ]
+}

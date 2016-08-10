@@ -1,0 +1,27 @@
+body { background-color:[BACKGROUNDCOLOR];font-family:[FONTWEBSYTTEM];margin:0 4% 0 4%;padding:0 0 0 0; }
+.yukanewsimage { width:100%;padding:0px;margin-bottom:10px;}
+.textClass { margin:0px 0px 0px 0px;font-size:18px;text-align:left; }
+.readnewslink { float:right;margin-right:10px;text-decoration:none;font-size:18px;color:#3D3D3D; }
+.newstitle { margin:15px 0px 10px 0px;font-size: 22px;font-family:[FONTTITLEWEBSYTTEM]; }
+.newsdate { width:100%; float:right;font-family:[FONTWEBSYTTEM];font-size:12px;text-align:right;margin:10px 0 10px 0; }
+
+@font-face {
+    font-family: 'OpenSans-Light';
+    src: url(data:font/ttf;base64,[FONT100BASE64]) format('truetype');
+}
+@font-face {
+    font-family: 'OpenSans-Light';
+    src: url(data:font/ttf;base64,[FONT300BASE64]) format('truetype');
+}
+@font-face {
+    font-family: 'OpenSans';
+    src: url(data:font/ttf;base64,[FONT500BASE64]) format('truetype');
+}
+@font-face {
+    font-family: 'OpenSans-Bold';
+    src: url(data:font/ttf;base64,[FONT700BASE64]) format('truetype');
+}
+@font-face {
+    font-family: 'OpenSans-Semibold';
+    src: url(data:font/ttf;base64,[FONT900BASE64]) format('truetype');
+}

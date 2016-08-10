@@ -1,0 +1,1 @@
+function showJS() { document.body.style.background="#000"; console.log('swiftten geliyorum'); }

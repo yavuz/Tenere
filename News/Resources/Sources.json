@@ -1,0 +1,20 @@
+{
+    "product": "Gundem",
+    "version": 1.0,
+    "releaseDate": "2014-06-25T00:00:00.000Z",
+    "Sources": [
+        {"name": "Sabah Anasayfa","url":"http://www.sabah.com.tr/rss/anasayfa.xml","identifier": "sabahanasayfa"},
+        {"name": "Sabah Gündem İçinden","url": "http://www.sabah.com.tr/rss/gununicinden.xml","identifier": "sabahgundemicinden"},
+        {"name":"Radikal","url":"http://www.radikal.com.tr/d/rss/RssSD.xml","identifier":"radikal" },
+        {"name":"Hürriyet","url":"http://rss.hurriyet.com.tr/rss.aspx?sectionId=1","identifier":"hurriyet"},
+        {"name":"Fotomaç","url":"http://www.fotomac.com.tr/rss/Anasayfa.xml","identifier":"fotomac"},
+        {"name":"En Son Haber","url":"http://www.ensonhaber.com/rss/ensonhaber.xml","identifier":"en-son-haber"},
+        {"name":"Google News","url":"http://news.google.com.tr/news?pz=1&cf=all&ned=tr_tr&hl=tr&output=rss","identifier":"google-news"},
+        {"name":"Yurt Gazetesi","url":"http://www.yurtgazetesi.com.tr/rss.php","identifier":"yurt-gazetesi"},
+        {"name":"Yeni Şafak","url":"http://www.yenisafak.com.tr/rss/","identifier":"yeni-safak"},
+        {"name":"Sporx","url":"http://www.sporx.com/_xml/rss.php","identifier":"sporx"},
+        {"name":"T24","url":"http://pipes.yahoo.com/pipes/pipe.run?_id=572aac39f10ed30bce94efac0eb2fcd8&_render=rss","identifier":"t24"},
+        {"name":"Zaman","url":"http://www.zaman.com.tr/manset.rss","identifier":"zaman-gazetesi"},
+        {"name":"İnternet Haber","url":"http://www.internethaber.com/rss/last_min.xml","identifier":"internet-gazetesi"}
+    ]
+}
